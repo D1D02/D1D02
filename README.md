@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 About Me
-🔭 I am currently pursuing a Master's degree in Computer Engineering at the University of Naples Federico II, specializing in Networks and Cybersecurity.<br>🌱 I’m currently learning robotics and gamedev.<br>⚡ Fun fact: I like reading books, listening music, watching movies and series, playing good videogames.
+🔭 I am currently pursuing a Master's degree in Computer Science at the University of Naples Federico II, specializing in Computer Games.<br>🌱 I’m currently learning robotics and gamedev.<br>⚡ Fun fact: I like reading books, listening music, watching movies and series, playing good videogames.
 
 ---
 
