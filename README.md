@@ -10,9 +10,9 @@
 ---
 
 ### 🔧 Current Projects
-- **[janus](https://github.com/D1D02/janus)**: a C web server with HTTP protocol;
-- **[c-matrix-float](https://github.com/D1D02/janus)**: a simple C matrix library for 32-bit microcontrollers, with single precision FPU;
-- **[SimpleAltitudeKalmanFilter](https://github.com/D1D02/SimpleAltitudeKalmanFilter)**: a simple Kalman Filter for altitude estimation;
+- **[janus](https://github.com/D1D02/janus)**: a C web server with HTTP protocol(in pause);
+- **[dd-matrix](https://github.com/D1D02/dd-matrix)**: a simple C matrix library for microcontrollers;
+- **[SimpleAltitudeKalmanFilter](https://github.com/D1D02/SimpleAltitudeKalmanFilter)**: a simple Kalman Filter for altitude estimation(maintenance is required);
 
 ---
 
